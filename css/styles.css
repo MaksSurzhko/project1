@@ -1,0 +1,110 @@
+.container{
+    min-width: 320px;
+    max-width: 414px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin: 0 auto;
+}
+
+.list{
+    list-style: none;
+}
+
+
+/*______Section-one______*/
+
+.hotel-one{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    margin: 0;
+}
+
+.hotel-first-text{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #B4B4B4;
+    margin: 0;
+    margin-bottom: 8px;
+}
+
+.hotel-first-title{
+    font-family: 'Film P3';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 43px;
+    color: #494848;
+    margin: 0;
+    margin-bottom: 32px;
+}
+
+.hotel-scnd-title{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin: 0;
+    margin-bottom: 12px;
+}
+
+.hotel-scnd-text{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    color: #7A7A7A;
+    max-width: 258px;
+    margin: 0;
+    margin-bottom: 32px;
+}
+
+.hotel-img{
+    margin: 0;
+}
+
+.hotel-photo-list{
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.hotel-photo-item{
+    margin: 0;
+}
+
+.hotel-btn{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #F3C653;
+    background: #000000;
+    border: 2px solid #FFFDEE;
+    border-radius: 25px;
+    width: 236px;
+    height: 48px;
+    margin: 20px auto 16px;
+    display: block;
+}
+
+.hotel-btn-two{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #F3C653;
+    background: #000000;
+    border: 2px solid #FFFDEE;
+    border-radius: 25px;
+    width: 236px;
+    height: 48px;
+    margin: 0;
+}
